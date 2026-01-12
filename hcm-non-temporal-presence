@@ -1,0 +1,9 @@
+{
+  "layer": "non_temporal",
+  "time": {
+    "tracked": false,
+    "used_as_trigger": false
+  },
+  "states": ["now", "later", "never"],
+  "principle": "Presence does not age."
+}
